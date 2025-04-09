@@ -1,4 +1,4 @@
-# Welcome to the Text to Sales Dashboard README !!
+# Welcome to the Sales Data Analysis Dashboard README !!
 
 Created an interactive dashboard to track and analyze online sales data using Power BI. Power BI is Microsoft's business analytics tool for data visualization, reporting, and insights, facilitating informed decisions through interactive dashboards and reports.
 
